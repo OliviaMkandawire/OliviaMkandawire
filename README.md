@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Olivia Mkandawire
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning server side programming 
-- 💞️ I’m looking to collaborate on any web development projects 
+- 👀 I’m interested in Emmbeded software Engeneering and Full Stack development 
+- 🌱 I’m currently learning php and MERN
+- 💞️ I’m looking to collaborate on any software development projects 
 - 📫 You can reach me at oliviamkandawire66@gmail.com
 
 <!---
